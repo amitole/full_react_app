@@ -1,0 +1,9 @@
+{
+    "env": {
+        "DB_USER": "amitole",
+        "DB_PASSWORD": "qtNe7wWCNjLGI2lT",
+        "DB_NAME": "mern",
+        "GOOGLE_API_KEY": "AIzaSyDdsKisrMKSdYq1Yzc5lZzd698xIWm-5Gc",
+        "JWT_KEY": "supersecret_dont_share"
+    }
+}
